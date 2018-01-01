@@ -7,8 +7,10 @@ A set of projects and papers that I want to implement. This a a perfect way of o
 
 ## Paper Implementations
 - [ ] Implement Binary Nets paper
+
       * Framework: PyTorch
 - [ ] Implement the Tacotron paper for End-To-End TTS in Hindi.
+
       * Framework: PyTorch
       
 ## New Concepts
